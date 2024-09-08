@@ -1,0 +1,49 @@
+* {    
+   background-color: #146c8b;
+    cursor: pointer;
+}
+
+.img-fondo {
+    width: 100%;
+}
+
+.ingresos {
+    display: flex;
+    width: 2500px;   
+}
+
+form label {
+    font-size: 25px;
+    text-align: center;
+    color: #eac450;
+}
+
+form input{
+    font-size: 25px;
+    text-align: center;
+    color:#d4df74;
+}
+
+form button {
+    font-size: 15px;
+    text-align: center;
+    color:#d4df74;
+    background-color:#14367e;
+}
+
+.texto {
+    font-size: 50px;
+    padding: -1px;
+    text-align: center;
+    color:#d4df74;
+}
+
+.uno {
+    color: #d4df74;
+}
+
+.dos {
+    color: #14367e;
+}
+
+
